@@ -1,0 +1,24 @@
+venv/
+__pycache__/
+
+*.onnx
+*.pth
+*.pt
+*.bin
+*.gguf
+
+chroma_db/
+vector_db/
+data/
+
+*.pdf
+
+*.pyc
+models/
+*.pkl
+# Large model files
+*.pkl
+*.joblib
+*.bin
+*.pt
+*.pth
