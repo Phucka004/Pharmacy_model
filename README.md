@@ -1,9 +1,8 @@
-````markdown
 # 💊 Pharmacy_model
 
-Hệ thống ứng dụng AI để **dự đoán bệnh dựa trên triệu chứng** và **gợi ý sản phẩm thuốc không kê đơn (OTC)** bằng **Machine Learning, Knowledge Graph và Advanced Retrieval-Augmented Generation (RAG)**.
+Hệ thống ứng dụng AI để  dự đoán bệnh dựa trên triệu chứng  và  gợi ý sản phẩm thuốc không kê đơn (OTC)  bằng  Machine Learning, Knowledge Graph và Advanced Retrieval-Augmented Generation (RAG) .
 
-> **Dữ liệu hỏi đáp y tế (Medical QA) được điều chỉnh từ bộ dữ liệu [ViMedical_Disease](https://github.com/PB3002/ViMedical_Disease).**
+>  Dữ liệu hỏi đáp y tế (Medical QA) được điều chỉnh từ bộ dữ liệu [ViMedical_Disease](https://github.com/PB3002/ViMedical_Disease). 
 
 ---
 # Giới thiệu
@@ -14,7 +13,7 @@ Hệ thống ứng dụng AI để **dự đoán bệnh dựa trên triệu ch�
 - Gợi ý sản phẩm thuốc không kê đơn (OTC).
 - So sánh hiệu quả giữa nhiều hướng tiếp cận AI trên cùng một bộ dữ liệu và tiêu chí đánh giá.
 
-Dự án được thiết kế theo hướng **Data-Centric AI**, bao gồm toàn bộ quy trình từ thu thập dữ liệu, tiền xử lý, xây dựng cơ sở tri thức đến đánh giá mô hình.
+Dự án được thiết kế theo hướng  Data-Centric AI , bao gồm toàn bộ quy trình từ thu thập dữ liệu, tiền xử lý, xây dựng cơ sở tri thức đến đánh giá mô hình.
 
 ---
 
@@ -57,7 +56,7 @@ Dữ liệu Medical Question Answer được điều chỉnh từ bộ dữ li�
 
 ## 2. Dữ liệu sản phẩm
 
-Thông tin thuốc và các sản phẩm chăm sóc sức khỏe được thu thập từ website **Nhà thuốc Long Châu** nhằm phục vụ mục đích nghiên cứu.
+Thông tin thuốc và các sản phẩm chăm sóc sức khỏe được thu thập từ website  Nhà thuốc Long Châu  nhằm phục vụ mục đích nghiên cứu.
 
 Sau khi thu thập, dữ liệu được:
 
@@ -224,7 +223,7 @@ Các mô hình được đánh giá trên cùng tập dữ liệu với các ti�
 ---
 # Mục tiêu nghiên cứu
 
-Dự án hướng tới việc xây dựng một **framework benchmark thống nhất** để so sánh các phương pháp:
+Dự án hướng tới việc xây dựng một  framework benchmark thống nhất  để so sánh các phương pháp:
 
 - Machine Learning
 - Knowledge Graph
@@ -236,7 +235,6 @@ trên cùng một bộ dữ liệu và cùng hệ thống đánh giá, từ đó
 
 # Lưu ý
 
-- Dự án chỉ phục vụ **mục đích học tập và nghiên cứu**.
-- Dữ liệu sản phẩm được thu thập từ website **Nhà thuốc Long Châu** nhằm phục vụ nghiên cứu, **không sử dụng cho mục đích thương mại**.
-- Hệ thống chỉ mang tính chất tham khảo, **không thay thế ý kiến của bác sĩ hoặc chuyên gia y tế**.
-````
+- Dự án chỉ phục vụ  mục đích học tập và nghiên cứu .
+- Dữ liệu sản phẩm được thu thập từ website  Nhà thuốc Long Châu  nhằm phục vụ nghiên cứu,  không sử dụng cho mục đích thương mại .
+- Hệ thống chỉ mang tính chất tham khảo,  không thay thế ý kiến của bác sĩ hoặc chuyên gia y tế .
