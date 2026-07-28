@@ -6,7 +6,6 @@ Hệ thống ứng dụng AI để **dự đoán bệnh dựa trên triệu ch�
 > **Dữ liệu hỏi đáp y tế (Medical QA) được điều chỉnh từ bộ dữ liệu [ViMedical_Disease](https://github.com/PB3002/ViMedical_Disease).**
 
 ---
-
 # Giới thiệu
 
 `Pharmacy_model` là dự án nghiên cứu nhằm xây dựng và đánh giá các mô hình AI cho bài toán:
